@@ -8,7 +8,7 @@
 
 ## Built With
 
-- HTML
+- Text editor
 - GIT
 
 ## Additional Tools
