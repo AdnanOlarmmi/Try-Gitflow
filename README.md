@@ -2,10 +2,6 @@
 
 # Try-Gitflow
 
-
-
-
-
 > Learning objectives
 
 - Follow Gitflow.
@@ -14,8 +10,6 @@
 
 - HTML
 - GIT
-
-Click [here](https://www.loom.com/share/1b0968f84b46450fa426ca8cf6bd0d68) to watch a walk-through description, given by me.
 
 ## Additional Tools
 
@@ -82,7 +76,7 @@ npx eslint .
 👤 **Is-haq Adnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
-- Twitter: [@AdnanIs71755510](https://twitter.com/AdnanIs71755510)
+- Twitter: [@AdnanIshaqOla](https://twitter.com/AdnanIshaqOla)
 - LinkedIn: [Adnan (Olamilekan) Is-haq](https://linkedin.com/in/adnan-is-haq-olamilekan)
 
 ## Credits
