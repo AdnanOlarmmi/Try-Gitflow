@@ -2,6 +2,8 @@
 
 # Try-Gitflow
 
+In this exercise, I practiced Gitflow with an empty repo. As all the upcoming projects will require Gitflow, I made sure that I understood it very well.
+
 > Learning objectives
 
 - Follow Gitflow.
